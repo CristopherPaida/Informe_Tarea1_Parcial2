@@ -368,6 +368,56 @@ Por tanto, la falla más probable es una resistencia abierta de 12kΩ, haciendo
 
 Capítulo 8
 
+2. Convierta las fuentes de voltaje prácticas de la figura 8-67 en fuentes de corriente equivalentes.
+
+![image](https://user-images.githubusercontent.com/105565670/175981094-476638f2-edad-4b50-9c34-f797f36a2d98.png)
+
+![image](https://user-images.githubusercontent.com/105565670/175981117-cefd78ca-0ea4-4349-bdae-f35279687059.png)
+
+4. Trace los circuitos equivalentes de fuentes de voltaje y corriente para la batería tipo D del problema 3.
+
+![image](https://user-images.githubusercontent.com/105565670/175981138-d1b90839-8a57-4011-9a60-0af87a2d19db.png)
+
+6. Convierta las fuentes de corriente prácticas de la figura 8-68 en fuentes de voltaje equivalentes.
+
+![image](https://user-images.githubusercontent.com/105565670/175981182-29bedf5f-797a-4818-b94f-8c318723b90a.png)
+
+![image](https://user-images.githubusercontent.com/105565670/175981212-139b711b-60a8-4b9e-a4bf-7ce503379015.png)
+
+8. Use el teorema de superposición para determinar la corriente a través, y el voltaje entre, los extremos de la rama R2 de la figura 8-69.
+
+![image](https://user-images.githubusercontent.com/105565670/175981260-1daa457f-6bb2-41ff-b8aa-a0c52a5533e3.png)
+
+Por el problema 7, sabemos que:
+
+![image](https://user-images.githubusercontent.com/105565670/175981277-5341b46e-ed3b-4769-82a9-80d9b378bddb.png)
+
+![image](https://user-images.githubusercontent.com/105565670/175981318-c64ad479-3a35-4051-8880-169d719fdb5e.png)
+
+10. Con el teorema de superposición, determine la corriente de carga en cada uno de los circuitos mostrados en la figura 8-71.
+
+![image](https://user-images.githubusercontent.com/105565670/175981334-b0b49b92-5b10-4a9f-b2b1-ed417a57ec60.png)
+
+Para el circuito a:
+
+![image](https://user-images.githubusercontent.com/105565670/175981360-61aec69e-8069-4ea2-8cd9-8830c0340d62.png)
+
+![image](https://user-images.githubusercontent.com/105565670/175981389-a3e1f04e-d4d1-4c7a-ae03-25ce5aca2ae6.png)
+
+Para el circuito b:
+
+![image](https://user-images.githubusercontent.com/105565670/175981426-4d62dc62-3cb5-4d3d-b182-9e4608d5bb9a.png)
+
+![image](https://user-images.githubusercontent.com/105565670/175981486-198cfa54-7318-4757-91b4-273eaff24ca1.png)
+
+12. Repita el problema 11 si R2 es de 10 kΩ.  En la figura 8-72 se muestra un circuito comparador. El voltaje de entrada, VENTRADA, se compara con el voltaje de referencia, VREFERENCIA, y se genera una salida negativa si VREFERENCIA > VENTRADA; de lo contrario es positiva. El comparador no carga a una u otra entrada. Si R2 es de 10 kΩ, ¿cuál es el intervalo del voltaje de referencia?
+
+![image](https://user-images.githubusercontent.com/105565670/175981530-789a95a1-88a5-4905-be9d-53014b6fef9d.png)
+
+![image](https://user-images.githubusercontent.com/105565670/175981563-934c8072-02d4-4d83-85b3-bbb037eb6ada.png)
+
+14. Los interruptores mostrados en la figura 8-74 se cierran en secuencia, SW1 primero. Determine la corriente a través de R4 después del cierre de cada interruptor.
+
 
 
 
