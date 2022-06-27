@@ -324,6 +324,52 @@ Con estos datos se puede determinar el voltaje de cada resistencia, siendo:
 
 ![image](https://user-images.githubusercontent.com/105565670/175980345-0597080e-6ec6-482a-b7bd-4eb55726380c.png)
 
+46.
+
+![image](https://user-images.githubusercontent.com/105565670/175980590-822a8372-5ff7-4614-b9ff-ecd921f7aeeb.png)
+
+48. Determine el voltaje de salida para el puente desequilibrado mostrado en la figura 7-83 a una temperatura de 60 °C. La característica de resistencia según la temperatura del termistor se muestra en la figura 7-60.
+
+![image](https://user-images.githubusercontent.com/105565670/175980621-52396abf-9872-4210-81e9-ae0e9fbb1ff7.png)
+
+![image](https://user-images.githubusercontent.com/105565670/175980630-88fabed4-2269-4416-9bf6-02b88ce8fb1a.png)
+
+![image](https://user-images.githubusercontent.com/105565670/175980660-37c2ed7a-57f2-431d-87e4-d277c7b3cb92.png)
+
+50. ¿Son correctas las lecturas del medidor mostrado en la figura 7-85?
+
+![image](https://user-images.githubusercontent.com/105565670/175980691-7a28a2c8-222e-4b1d-b3ff-1429407ba6d8.png)
+
+Para verificar si las lecturas son correctas, se deben analizar, por tanto:
+
+![image](https://user-images.githubusercontent.com/105565670/175980729-3fefd2de-ac52-4b6d-9205-3bade4ee3a6c.png)
+
+Conclusión:
+
+Las lecturas de los medidores son correctas.
+
+52. Vea los medidores ilustrados en la figura 7-87 y determine si hay una falla en el circuito. Si la hay, identifíquela.
+
+![image](https://user-images.githubusercontent.com/105565670/175980792-14f4c2f4-03e3-465a-996f-62b48f70e2e5.png)
+
+![image](https://user-images.githubusercontent.com/105565670/175980827-be963f38-026e-4f54-ba40-65700e943759.png)
+
+La lectura medida es incorrecta, el valor calculado es 56.25V mientras que en la figura es 81.8V, por tanto, la lectura es incorrecta.
+
+Por tanto, la falla más probable es una resistencia abierta de 12kΩ, haciendo que el voltaje sea más alto de lo que debería ser. Entonces para calcular se asume una resistencia abierta de 12kΩ
+
+![image](https://user-images.githubusercontent.com/105565670/175980865-71da6b93-4240-48bf-b08b-9374d106f08f.png)
+
+54. Si en la figura 7-89 R_2 se abre, ¿qué voltajes se leerán en los puntos A, B y C?
+
+![image](https://user-images.githubusercontent.com/105565670/175980884-bb4868bf-1659-403e-931c-b863ccbfd47a.png)
+
+![image](https://user-images.githubusercontent.com/105565670/175980906-0fc08dc8-82bb-4d0b-9de1-c7a243037f20.png)
+
+Capítulo 8
+
+
+
 
 
 
