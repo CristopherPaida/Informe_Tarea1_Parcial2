@@ -556,7 +556,7 @@ Para encontrar las demás corrientes, se calculan en base al circuito original
 
 4. Video
 
-Link del video:
+Link del video: https://www.youtube.com/watch?v=OlIZHLuaS3g
 
 5. Conclusiones
 
