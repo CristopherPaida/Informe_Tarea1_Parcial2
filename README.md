@@ -472,23 +472,100 @@ SW1, SW2 y SW3 cerrados, con 9 V:
 
 ![image](https://user-images.githubusercontent.com/105565670/175989988-00ab21c0-fdcf-48e0-af0c-ea07e7800d42.png)
 
+20. Determine la corriente que se dirige al punto A cuando R_8 es de 1.0 kΩ, 5 kΩ, y 10 kΩ en la figura 8-80
 
+![image](https://user-images.githubusercontent.com/105565670/175990828-085b0529-9468-46b2-99d5-92059ccbdb4e.png)
 
+![image](https://user-images.githubusercontent.com/105565670/175990853-2ada7dd2-a8cb-45f1-b11b-a52a73aef3a0.png)
 
+![image](https://user-images.githubusercontent.com/105565670/175990923-418c82e6-df9f-4709-842a-1a0a53e786dd.png)
 
+![image](https://user-images.githubusercontent.com/105565670/175990957-47e804f6-baa7-4485-9725-f178caa66ccb.png)
 
+![image](https://user-images.githubusercontent.com/105565670/175990977-9638b96e-90c6-485d-8e3e-d8b8cc367531.png)
 
+22. Determine el equivalente de Thévenin del circuito mostrado en la figura 8-82 visto desde las terminales A y B
 
+![image](https://user-images.githubusercontent.com/105565670/175991006-6bacfd46-0759-4455-a000-5971f16467ee.png)
 
+![image](https://user-images.githubusercontent.com/105565670/175991069-81bc22fc-29e0-40f8-ba77-632bf5653b61.png)
 
+![image](https://user-images.githubusercontent.com/105565670/175991080-3de8e98a-f23f-47bc-a1db-3b5ccea5fa55.png)
 
+24. Con el teorema de Norton, determine la corriente que circula a través del resistor de carga R_L en la figura 8-77
 
+![image](https://user-images.githubusercontent.com/105565670/175991105-a39376a5-c72e-46d7-b685-0feb523652f5.png)
 
+![image](https://user-images.githubusercontent.com/105565670/175991120-2b52f738-d198-47f7-92c5-f304755a6722.png)
 
+![image](https://user-images.githubusercontent.com/105565670/175991142-4eae67c4-3c7f-42c3-85e6-6f3df25a0375.png)
 
+![image](https://user-images.githubusercontent.com/105565670/175991164-1f7f49ab-6a84-4fec-8c5d-b1d68f84dabe.png)
 
+26. Con el teorema de Norton, determine la corriente que circula a través de R_1 en la figura 8-80 cuando R_8 = 8 kΩ  
 
+![image](https://user-images.githubusercontent.com/105565670/175991282-839684fb-b181-4d73-9398-9169e3479e15.png)
 
+![image](https://user-images.githubusercontent.com/105565670/175991310-b6197247-6165-46a3-93ae-3916b7a21cd9.png)
 
+![image](https://user-images.githubusercontent.com/105565670/175991402-8ead0800-28b7-46c7-96aa-0d4b2baf3aee.png)
 
+![image](https://user-images.githubusercontent.com/105565670/175991415-21f55d6f-9c77-427c-a126-0db503f10c45.png)
 
+28. En la figura 8-83, reduzca el circuito entre las terminales A y B a su equivalente Norton
+
+![image](https://user-images.githubusercontent.com/105565670/175991440-258cb1bb-240a-4ede-8b72-cd76a20e0012.png)
+
+![image](https://user-images.githubusercontent.com/105565670/175991480-caa1ddce-ad31-4047-8bdb-f3aa83e32949.png)
+
+![image](https://user-images.githubusercontent.com/105565670/175991497-e3605991-9313-4afa-995a-213d42d6318d.png)
+
+![image](https://user-images.githubusercontent.com/105565670/175991516-ff4bc7a3-959d-4f1a-aa58-917351fd6e83.png)
+
+30. En cada circuito mostrado en la figura 8-85, se tiene que transferir potencia máxima a la carga R_L. Determine el valor apropiado de R_L en cada caso
+
+![image](https://user-images.githubusercontent.com/105565670/175991581-e21ac9b1-1509-4909-9c9e-ddd63e2706c1.png)
+
+32. ¿Cuánta potencia se suministra a la carga cuando R_L es un 10% más alta que su valor para transferencia de potencia máxima en el circuito de la figura 8-86?
+
+![image](https://user-images.githubusercontent.com/105565670/175991612-c62d7283-9fb2-427f-b3cd-30c909b8bccb.png)
+
+![image](https://user-images.githubusercontent.com/105565670/175991658-a7ec8892-6913-42fd-aae9-650e6a68a410.png)
+
+![image](https://user-images.githubusercontent.com/105565670/175991689-5c194b78-ddc7-4c32-ad53-2e8cb2967059.png)
+
+34. En la figura 8-88, convierta cada red delta en una red Y
+
+![image](https://user-images.githubusercontent.com/105565670/175991725-c894d426-94ac-486f-950e-235a91d6874e.png)
+
+![image](https://user-images.githubusercontent.com/105565670/175991758-936dc69c-bc55-4dd8-8e7c-e8b363e24433.png)
+
+36. Determine todas las corrientes que circulan en el circuito de la figura 8-90
+
+![image](https://user-images.githubusercontent.com/105565670/175991779-309627fc-734d-4f99-a5ac-f3c4b4bf316c.png)
+
+Redibujando el circuito para sus cálculos, sería:
+
+![image](https://user-images.githubusercontent.com/105565670/175991807-7ce0a873-a758-4ff1-9934-8eb3f04dea9b.png)
+
+![image](https://user-images.githubusercontent.com/105565670/175991843-8c32455a-b1a2-4738-b85c-86b7a27afc73.png)
+
+Para encontrar las demás corrientes, se calculan en base al circuito original
+
+![image](https://user-images.githubusercontent.com/105565670/175991869-bae84c4f-5ee6-4d6a-8ca7-485269cf0747.png)
+
+4. Video
+
+Link del video:
+
+5. Conclusiones
+
+•	Los circuitos en serie-paralelo se caracterizan por tener sus elementos conectados en serie y paralelo que dependiendo la información que se requiera determinar, se lo puede realizar por medio del análisis de relación y datos que nos provee el circuito eléctrico.
+
+•	Los teoremas de circuitos proporcionan métodos para simplificar un circuito a una forma estándar haciendo fácil su análisis y cálculo de valores, mientras que las conversiones son de gran utilidad para el análisis de un circuito y aplicaciones especializadas.
+
+6. Bibliografía
+
+Thomas, F. (2007). Principios de circuitos eléctricos. Octava edición. México: Pearson Educación.
+
+Zapata, F. (21 de Mayo de 2021). lifeder. Obtenido de https://www.lifeder.com/circuito-electrico-mixto/
