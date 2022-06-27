@@ -418,6 +418,61 @@ Para el circuito b:
 
 14. Los interruptores mostrados en la figura 8-74 se cierran en secuencia, SW1 primero. Determine la corriente a través de R4 después del cierre de cada interruptor.
 
+![image](https://user-images.githubusercontent.com/105565670/175989246-36823a28-8e0f-4cdc-b37e-ebc3fb69e0e3.png)
+
+![image](https://user-images.githubusercontent.com/105565670/175989259-4be0c95d-697b-4f36-b211-90c4b37b59a2.png)
+
+SW1 cerrado:
+
+![image](https://user-images.githubusercontent.com/105565670/175989289-3eed93ba-036e-4e85-a8c4-e7b880cb0332.png)
+
+SW1 y SW2 cerrado, con 12 V:
+
+![image](https://user-images.githubusercontent.com/105565670/175989331-681b074e-c273-4098-bc5c-b7f645711970.png)
+
+SW1 y SW2 cerrado, con 6 V:
+
+![image](https://user-images.githubusercontent.com/105565670/175989363-2a7cd856-d0a4-4edf-b887-e704fdbb0cb3.png)
+
+Corriente total en R_L para SW1 y SW2 cerrados:
+
+![image](https://user-images.githubusercontent.com/105565670/175989411-2c39043d-c26f-4de5-9498-548010ef3d96.png)
+
+SW1, SW2 y SW3 cerrados, con 12 V:
+
+![image](https://user-images.githubusercontent.com/105565670/175989465-ab1ce8a1-30c0-4336-b3ef-70bd5a1f0b94.png)
+
+![image](https://user-images.githubusercontent.com/105565670/175989480-e02dc814-b1f3-42e2-973f-db7738660e52.png)
+
+SW1, SW2 y SW3 cerrados, con 6 V:
+
+![image](https://user-images.githubusercontent.com/105565670/175989545-c3cbb2eb-ade3-4e9e-ac58-5645764d514c.png)
+
+![image](https://user-images.githubusercontent.com/105565670/175989557-c8fce6d0-e001-4cf9-8e17-2b74c0ecf2cf.png)
+
+SW1, SW2 y SW3 cerrados, con 9 V:
+
+![image](https://user-images.githubusercontent.com/105565670/175989676-c20fe5a4-9102-4dd3-aa4a-27218e30855b.png)
+
+![image](https://user-images.githubusercontent.com/105565670/175989753-d5ede568-7698-4b5c-8548-3c7f74cfb9bb.png)
+
+16. Para cada uno de los circuitos de la figura 8-76, determine el equivalente de Thevenin como se ve desde las terminales A y B.
+
+![image](https://user-images.githubusercontent.com/105565670/175989773-30dd62e9-92c6-407b-8ebd-b4b9bb264450.png)
+
+![image](https://user-images.githubusercontent.com/105565670/175989831-be1fa58b-08a7-469b-afcc-79fdb9960ad6.png)
+
+18. Con el teorema de Thévenin, determine el voltaje entre los extremos de R4 en la figura 8-78.
+
+![image](https://user-images.githubusercontent.com/105565670/175989868-2068b2e2-986e-4371-a9fb-8b5a78ad6478.png)
+
+![image](https://user-images.githubusercontent.com/105565670/175989875-e2d17306-c4d0-4407-a766-99dd2aefacb4.png)
+
+![image](https://user-images.githubusercontent.com/105565670/175989957-ab2e391b-3228-4d44-ad29-9b6c8d6a10ec.png)
+
+![image](https://user-images.githubusercontent.com/105565670/175989988-00ab21c0-fdcf-48e0-af0c-ea07e7800d42.png)
+
+
 
 
 
