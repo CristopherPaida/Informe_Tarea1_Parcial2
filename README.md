@@ -566,6 +566,6 @@ Link del video: https://www.youtube.com/watch?v=OlIZHLuaS3g
 
 6. Bibliografía
 
-Thomas, F. (2007). Principios de circuitos eléctricos. Octava edición. México: Pearson Educación.
+Floyd, T. (2007). Principios de circuitos eléctricos. Octava edición. México: Pearson Educación.
 
 Zapata, F. (21 de Mayo de 2021). lifeder. Obtenido de https://www.lifeder.com/circuito-electrico-mixto/
